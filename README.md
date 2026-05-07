@@ -1,5 +1,3 @@
-# FinalProject
-
 # 🎬 Movie & TV Show Tracker App
 
 A modern and responsive Movie & TV Show Tracker web application built using **React.js**, **Tailwind CSS**, and **TMDB API**. Users can browse trending movies and TV shows, search content, view detailed information, and manage a personal watchlist.
@@ -14,7 +12,7 @@ A modern and responsive Movie & TV Show Tracker web application built using **Re
 * Browse popular Indian movies
 * Browse TV shows
 * Search movies and TV shows
-* View detailed movie/TV show information
+* View detailed movie and TV show information
 * Add or remove items from Watchlist
 * Persistent Watchlist using localStorage
 * Responsive UI using Tailwind CSS
@@ -24,12 +22,25 @@ A modern and responsive Movie & TV Show Tracker web application built using **Re
 
 ---
 
+# 🎬 Trailer Features
+
+* Watch official movie trailers
+* Watch official TV show trailers
+* Direct YouTube trailer integration
+* Support for trailers, teasers, and clips
+* Fallback message when trailer is unavailable
+* Works for Hollywood, Bollywood, and Indian regional content
+
+---
+
 # ⭐ Bonus Features
 
 * Protected Routes
 * Mock Authentication System
 * React.memo Performance Optimization
 * Custom Hooks
+* Trailer Integration with TMDB API
+* Indian + Hollywood mixed content sections
 
 ---
 
